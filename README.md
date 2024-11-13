@@ -1,4 +1,4 @@
-# Eklipx Take Home Test
+# Eklipx Take Home Test Variant
 
 ## Introduction
 
